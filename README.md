@@ -20,6 +20,5 @@ Agri-Predict is a mobile application developed in Flutter that helps farmers ide
 ## Technologies Used
 - **Flutter**: For building the cross-platform mobile application.
 - **Dart**: Programming language used in Flutter.
-- **Firebase**: Backend for storing data and authentication.
 - **Image Processing**: Techniques for processing images to identify groundnut varieties.
 
