@@ -11,9 +11,9 @@ Agri-Predict is a mobile application developed in Flutter that helps farmers ide
 - **Result Display**: Display processed images and identification results within the app.
 
 ## Screenshots
-![Welcome Screen](app_screenshots/welcome_screen.png)
-![Home Screen](app_screenshots/home_screen.png)
-![Result Screen](app_screenshots/results.png)
+![Welcome Screen](app_screenshots/welcome_screen.jpg)
+![Home Screen](app_screenshots/home_screen.jpg)
+![Result Screen](app_screenshots/results.jpg)
 
 ## Technologies Used
 - **Flutter**: For building the cross-platform mobile application.
